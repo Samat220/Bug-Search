@@ -1,4 +1,4 @@
-CS622, Final Exam, Ramazan Samat
+Ramazan Samat
 
 This final exam asked me to put bug picture into chicken picture and
 test my algorithm for searching bug position.
